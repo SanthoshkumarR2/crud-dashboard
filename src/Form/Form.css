@@ -1,0 +1,29 @@
+
+.form-container{
+ 
+    border-color: rgb(1, 27, 21);
+    border-radius: 20px;
+    border-style:solid;
+    width: 40%;
+    margin-left: 430px;
+    margin-top: 70px;
+    /* background-color: blueviolet; */
+    }
+    .create-btn{
+        width: 50vw;
+        padding: 10px;
+        margin: 20px;
+    }
+    input{
+        margin: 30px;
+        padding: 10px;
+     
+    }
+    #Textarea{
+        margin-left: 30px;
+    }
+    .c-3{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
